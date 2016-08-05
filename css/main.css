@@ -1,6 +1,6 @@
 body{
 	background-image:url("C:users/Ying/desktop/pineapple.jpg");
-	background-size:600px 400px;
+	background-size: 1400px 900px;
 }
 
 li{
@@ -12,6 +12,7 @@ li{
 nav{
 	position:fixed;
 	margin-top:0px;
+	padding-right:1200px;
 	background-color: LightCyan;
 }
 
@@ -22,4 +23,6 @@ a:visited{text-decoration: none; color:LightGreen;}
 h1{
 	padding-top: 150px;
 	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: ;
 }
