@@ -1,11 +1,39 @@
-a{
+#social{
 	text-decoration:none;
 	color:green;
 	margin-left:0px;
 }
 
-img{
+/*#floatleft{
 	float:left;
+	top:500px;
+	position:fixed;
+}
+#floatright{
+	float:right;
+	top:500px;
+	position:fixed;
+}*/
+
+nav{
+	position:fixed;
+	top:300px;
+}
+
+#insta{
+	float:left;
+}
+
+img{
 	width:30px;
 	height:30px;
+}
+
+p{
+	width:900px;
+	margin:0 auto;
+}
+
+h3{
+	margin-left:50px;
 }
