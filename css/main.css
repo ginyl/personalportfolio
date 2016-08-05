@@ -1,0 +1,25 @@
+body{
+	background-image:url("C:users/Ying/desktop/pineapple.jpg");
+	background-size:600px 400px;
+}
+
+li{
+	list-style-type: none;
+	display:inline;
+	margin-right: 20px;
+}
+
+nav{
+	position:fixed;
+	margin-top:0px;
+	background-color: LightCyan;
+}
+
+a:link{text-decoration: none; color:green;}
+a:hover{text-decoration: underline;}
+a:visited{text-decoration: none; color:LightGreen;}
+
+h1{
+	padding-top: 150px;
+	text-align: center;
+}
