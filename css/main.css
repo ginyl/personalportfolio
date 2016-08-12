@@ -1,27 +1,26 @@
 body{
-	background-image:url("C:users/Ying/desktop/pineapple.jpg");
+	background-image:url("C:users/Ying/desktop/portfolio/image/snow.jpg");
 	background-size: 1400px 900px;
-}
-
-li{
-	list-style-type: none;
-	display:inline;
-	margin-right: 20px;
 }
 
 nav{
 	position:fixed;
-	margin-top:0px;
+	top:0px;
 	background-color: LightCyan;
+	border: 2pt dashed green;
+	padding:10px 100px;
+	margin-left:400px;
+	text-align: center;
 }
 
-a:link{text-decoration: none; color:green;}
+a{padding-right:80px;}
+a:link{text-decoration: none; color:purple;}
 a:hover{text-decoration: underline;}
-a:visited{text-decoration: none; color:LightGreen;}
+/*a:visited{text-decoration: none; color:LightGreen;}*/
 
 h1{
-	padding-top: 150px;
+	padding-top: 200px;
 	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
-	font-size: ;
+	font-size: 60px;
 }

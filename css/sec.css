@@ -1,24 +1,30 @@
+body{
+	background-color: AntiqueWhite;
+
+}
+
 #social{
 	text-decoration:none;
 	color:green;
 	margin-left:0px;
 }
 
-/*#floatleft{
-	float:left;
-	top:500px;
-	position:fixed;
-}
-#floatright{
-	float:right;
-	top:500px;
-	position:fixed;
-}*/
-
 nav{
 	position:fixed;
-	top:300px;
+	top:0px;
+	background-color: LightCyan;
+	border: 2pt dashed green;
+	padding:10px 100px;
+	margin-left:400px;
+	text-align: center;
 }
+
+a{
+	padding-right:80px;
+}
+a:link{text-decoration: none; color:purple;}
+a:hover{text-decoration: underline;}
+/*a:visited{text-decoration: none; color:LightGreen;}*/
 
 #insta{
 	float:left;
@@ -29,11 +35,21 @@ img{
 	height:30px;
 }
 
-p{
+h3{
+	margin-left:50px;
+	margin-top: 50px;
+}
+
+#p{
 	width:900px;
 	margin:0 auto;
 }
 
-h3{
-	margin-left:50px;
+div{
+	width:900px;
+	margin:0 auto;
+}
+
+#em{
+	padding-top: 20px;
 }
