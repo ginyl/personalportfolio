@@ -3,6 +3,20 @@ body{
 
 }
 
+#about{
+	width:200px;
+	height:80px;
+	margin-left:50px;
+	margin-top: 50px;
+}
+
+#contact{
+	margin-left:50px;
+	margin-top: 50px;
+	width:200px;
+	height:100px;
+}
+
 #social{
 	text-decoration:none;
 	color:green;
@@ -28,16 +42,8 @@ a:hover{text-decoration: underline;}
 
 #insta{
 	float:left;
-}
-
-img{
 	width:30px;
 	height:30px;
-}
-
-h3{
-	margin-left:50px;
-	margin-top: 50px;
 }
 
 #p{
@@ -52,4 +58,10 @@ div{
 
 #em{
 	padding-top: 20px;
+}
+
+#sn{
+	width:240px; 
+	height:200px; 
+	float:right; 
 }

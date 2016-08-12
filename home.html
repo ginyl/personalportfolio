@@ -7,6 +7,9 @@
 		<script>
 			$(document).ready(function(){
 				$('h1').hide(0.1).fadeIn(6000);
+				$('h1').hover(function(){$(this).css("color","coral")},
+					function(){$(this).css("color","black")});
+				$('img').hide(1).show(6000);
 			});
 		</script>
 	</head>
@@ -16,5 +19,6 @@
 			<a href="sec.html" target="_blank">About</a>
 		</nav>
 		<h1>Hi. I'm Ying.</h1>
+		<img src="image/mermaid.gif">
 	</body>
 </html>

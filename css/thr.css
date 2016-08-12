@@ -5,7 +5,7 @@ body{
 }
 
 div{
-	margin: 50px 10px 20px;
+	margin: 80px 10px 20px;
 	font-size: 30px;
 }
 
@@ -26,3 +26,14 @@ nav{
 a:link{text-decoration: none; color:purple;}
 a:hover{text-decoration: underline;}
 /*a:visited{text-decoration: none; color:LightGreen;}*/
+
+ul{
+	font-size: 20px;
+}
+
+img{
+	width:200px;
+	height:200px;
+	margin-top: 150px;
+	float:right;
+}

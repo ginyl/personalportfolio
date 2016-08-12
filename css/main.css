@@ -1,6 +1,11 @@
 body{
 	background-image:url("C:users/Ying/desktop/portfolio/image/snow.jpg");
-	background-size: 1400px 900px;
+	background-image-size:100%;
+}
+
+img{
+	height:200px;
+	margin-left:500px;
 }
 
 nav{
